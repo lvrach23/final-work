@@ -1,0 +1,15 @@
+C:\Учеба\final work\final-work\bin\Debug\net6.0\final-work.exe
+C:\Учеба\final work\final-work\bin\Debug\net6.0\final-work.deps.json
+C:\Учеба\final work\final-work\bin\Debug\net6.0\final-work.runtimeconfig.json
+C:\Учеба\final work\final-work\bin\Debug\net6.0\final-work.dll
+C:\Учеба\final work\final-work\bin\Debug\net6.0\final-work.pdb
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.csproj.AssemblyReference.cache
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.AssemblyInfoInputs.cache
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.AssemblyInfo.cs
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.csproj.CoreCompileInputs.cache
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.dll
+C:\Учеба\final work\final-work\obj\Debug\net6.0\refint\final-work.dll
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.pdb
+C:\Учеба\final work\final-work\obj\Debug\net6.0\final-work.genruntimeconfig.cache
+C:\Учеба\final work\final-work\obj\Debug\net6.0\ref\final-work.dll
